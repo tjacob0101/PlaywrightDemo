@@ -13,7 +13,7 @@ The project is designed to automate end-to-end tests for web applications.
 Clone the repo
 
 ```bash
-git clone [https://github.com/github_username/repo_name.git](https://github.com/tjacob0101/PlaywrightDemo.git)
+git clone https://github.com/tjacob0101/PlaywrightDemo.git
 ```
 
 Use the package manager npm to install foobar.
