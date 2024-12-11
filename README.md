@@ -7,6 +7,7 @@ The project is designed to automate end-to-end tests for web applications.
 - Launching of default Chromium Playwright browser before running all tests
 - Basic report generation - Cucumber Json/Html reporters
 - Utilies function to help you with writing steps
+- Ability to run in CI via github actions
 
 ## Installation
 Clone the repo
