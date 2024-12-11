@@ -9,6 +9,11 @@ The project is designed to automate end-to-end tests for web applications.
 - Utilies function to help you with writing steps
 - Ability to run in CI via github actions
 
+## What can be done better 
+- Ability to use baseURL from config - couldn't workout how to do that
+- Intercept api's or poll for page load to complete
+- Not using cucumber would have made the more framework flexible - it would be an overhead to maintain
+
 ## Installation
 Clone the repo
 
